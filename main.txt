@@ -1,6 +1,6 @@
 <item>
 <title>Mix de Forro</title>
-<ptube>PLjt03GI4-0kALFhAKv2OT8R5Euoknhinm</ptube>
+<putube>PLjt03GI4-0kALFhAKv2OT8R5Euoknhinm</putube>
 <thumbnail>https://yt3.ggpht.com/njougSOPswz3jf6ioAa7fArxmbcLlqfOY_GWujmVsumaN8Vrqzq5spGDh4yk3djcjvHGQLGuN6-GW9pg-w=s256-mo-c-c0xffffffff-rj-k-no</thumbnail>
 <fanart></fanart>
 <info></info>
