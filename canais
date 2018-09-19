@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://uploaddeimagens.com.br/images/001/623/215/thumb/tvpalavra.jpg" group-title="Gospel",
+http://srv2.video.pgdigitalhost.com.br/radiopalavra/radiopalavra/playlist.m3u8
