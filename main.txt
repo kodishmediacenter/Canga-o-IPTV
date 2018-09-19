@@ -1,1 +1,7 @@
-Lista
+<item>
+<title>Mix de Forro</title>
+<utube>UCIW0VuvRD-R4ObQ2gAoMvow</utube>
+<thumbnail>https://yt3.ggpht.com/njougSOPswz3jf6ioAa7fArxmbcLlqfOY_GWujmVsumaN8Vrqzq5spGDh4yk3djcjvHGQLGuN6-GW9pg-w=s256-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
