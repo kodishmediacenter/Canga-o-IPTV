@@ -1,0 +1,53 @@
+
+
+<item>
+<title>Forró das Antigas - Só as Melhores Vol 1</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SSRP1DiZB9I</link>
+<thumbnail>https://i.ytimg.com/vi/SSRP1DiZB9I/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Forró das Antigas - Só as Melhores Vol 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ySospUk_np8</link>
+<thumbnail>https://i.ytimg.com/vi/ySospUk_np8/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Forró das Antigas - Só as Melhores Vol 3</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jF33yZoWnJA</link>
+<thumbnail>https://i.ytimg.com/vi/jF33yZoWnJA/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Forró das Antigas - O Melhor do Arrasta Pé - Músicas Juninas</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1uASqqdrdws</link>
+<thumbnail>https://i.ytimg.com/vi/1uASqqdrdws/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Melhor do Forró Romántico  | AO VIVO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jjFVizGfDcg</link>
+<thumbnail>https://i.ytimg.com/vi/jjFVizGfDcg/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+
