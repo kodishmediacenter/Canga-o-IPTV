@@ -7,6 +7,16 @@
  <info></info>
  </channel>
  </channels>
+ 
+  <channels>
+ <channel>
+ <name>[COLOR white][B]Cangaço IPTV {Cangaço IPTV - Lista do MM Filmes}[/B][/COLOR]</name>
+ <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filme-mm</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
 
 
 
