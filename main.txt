@@ -17,6 +17,18 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Cangaço IPTV {Hidra  - Kodish}[/B][/COLOR]</name>
+ <thumbnail>https://uploaddeimagens.com.br/images/001/625/552/thumb/icon.png</thumbnail>
+ <externallink>https://raw.github.com/kodishmediacenter/omega/master/main.txt</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ 
 
 
 
