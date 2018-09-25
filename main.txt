@@ -1,9 +1,9 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV - Lista do Guia do Luiz [/B][/COLOR]</name>
+ <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/canais</externallink>
+ <externallink>https://pastebin.com/raw/bU2wsSp2</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
