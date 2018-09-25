@@ -1,7 +1,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço IPTV {Cangaço IPTV - Lista do Guia do Luiz}[/B][/COLOR]</name>
+ <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV - Lista do Guia do Luiz [/B][/COLOR]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/canais</externallink>
  <fanart></fanart>
@@ -11,7 +11,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Filmes do Grupo[/B][/COLOR]</name>
+ <name>[COLOR white][B]Cangaço TV -  Filmes[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filmesdogrupo</externallink>
  <fanart></fanart>
@@ -21,7 +21,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço IPTV {Cangaço IPTV - Lista do MM Filmes}[/B][/COLOR]</name>
+ <name>[COLOR white][B]Cangaço TV Lista do MM Filmes[/B][/COLOR]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filme-mm</externallink>
  <fanart></fanart>
@@ -31,7 +31,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço IPTV {Hidra  - Kodish}[/B][/COLOR]</name>
+ <name>[COLOR white][B]Hidra  - Kodish[/B][/COLOR]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/001/625/552/thumb/icon.png</thumbnail>
  <externallink>https://raw.github.com/kodishmediacenter/omega/master/main.txt</externallink>
  <fanart></fanart>
