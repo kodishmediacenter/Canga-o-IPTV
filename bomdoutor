@@ -1,3 +1,21 @@
+<channels></channels>
+<channel>
+<name>O Bom Doutor</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1K4mJwISETia59rrnMdXxzoSrZ.jpg</thumbnail>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=msJggy8xtmI</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1K4mJwISETia59rrnMdXxzoSrZ.jpg</thumbnail>
+<fanart></fanart>
+<info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Bom Doutor</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1K4mJwISETia59rrnMdXxzoSrZ.jpg</thumbnail>
+
 <item>
 <title>O Bom Doutor EP 01</title>
 <link>http://207.180.205.251/users/cangaco/home/The%20Good%20Doctor%201%c2%aa%20Temporada%20Completa%202018%20%5bREPACK%5d%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d%20COMANDOTORRENTS.COM/The.Good.Doctor.S01E01.720p.WEB-DL.DUAL.WWW.COMANDOTORRENTS.COM.mkv</link>
@@ -141,3 +159,4 @@
 <fanart></fanart>
 <info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
 </item>
+</channel>
