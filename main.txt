@@ -40,6 +40,14 @@
  </channels>
  
  
-
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Cangaço TV  - Cangaço Series[/B][/COLOR]</name>
+ <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/main-series</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
 
 
