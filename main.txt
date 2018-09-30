@@ -1,6 +1,13 @@
- 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
+ <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
+ <externallink>https://pastebin.com/raw/bU2wsSp2</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels> 
 
- 
  <channels>
  <channel>
  <name>[COLOR white][B]Cangaço TV -  Filmes[/B][/COLOR]</name>
