@@ -4,7 +4,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d0ESa56OesIFAOAl8ZZi0mHlxC.jpg</thumbnail>
 
 <item>
-<title>[COLOR yellow]01 Temp - Trailer[/COLOR]</title>
+<title>[COLOR yellow]1º Temporadada Trailer[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d0ESa56OesIFAOAl8ZZi0mHlxC.jpg</thumbnail>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ANNk3E0YGRU</link>
 <info>Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.</info>
@@ -102,7 +102,7 @@
 </item>
 
 <item>
-<title>2º Temporada</title>
+<title>[COLOR yellow]2º Temporada[/COLOR]</title>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ANNk3E0YGRU</trailer>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d0ESa56OesIFAOAl8ZZi0mHlxC.jpg</thumbnail>
 <fanart></fanart>
