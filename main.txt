@@ -1,7 +1,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
- <thumbnail>https://uploaddeimagens.com.br/images/001/623/263/full/tvcangaco.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/tv.png</thumbnail>
  <externallink>https://pastebin.com/raw/bU2wsSp2</externallink>
  <fanart></fanart>
  <info></info>
@@ -11,7 +11,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Cangaço TV -  Filmes[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/filmes.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filmesdogrupo</externallink>
  <fanart></fanart>
  <info></info>
