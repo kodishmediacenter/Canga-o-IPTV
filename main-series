@@ -1,3 +1,13 @@
+ <channels></channels>
+<channel>
+<name>[COLOR white][B]Assedio[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSjvPYhEgNkQvwuS7JS9oXvrwVJ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/assedio</externallink>
+<fanart>http://207.180.205.251/users/cangaco/home/capa/assedio-poster-web.jpg</fanart>
+<info> Série nacional completa e exclusiva da Globoplay Assédio. Com a ajuda de uma jornalista, um grupo de mulheres se une para denunciar os abusos sexuais que sofreram por parte de um respeitado médico: Roger Sadala (Antonio Calloni), especialista em medicina reprodutiva e famoso na alta sociedade. Tudo começa quando uma delas rompe o silêncio, inspirando as outras vítimas a construírem uma rede de apoio mútuo com sede de justiça.</info>
+</channel>
+</channels>
+
  <channels>
  <channel>
  <name>[COLOR white][B]Bom Doutor[/B][/COLOR]</name>
