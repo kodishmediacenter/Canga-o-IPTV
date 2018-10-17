@@ -1,16 +1,7 @@
+
  <channels>
  <channel>
  <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/tv.png</thumbnail>
- <externallink>https://pastebin.com/raw/bU2wsSp2</externallink>
- <fanart></fanart>
- <info></info>
- </channel>
- </channels> 
- 
-  <channels>
- <channel>
- <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV 2[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/tv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/canaisextra</externallink>
  <fanart></fanart>
