@@ -18,7 +18,15 @@
  </channel>
  </channels>
  
- 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Cobra Kai[/B][/COLOR]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cobrakai.txt</externallink>
+ <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/x7QOl4QEVMOp6V4wsp3Kte3NLDY.jpg</fanart>
+ <info>Trinta anos depois do embate entre Daniel Larusso e Johnny Lawrence, a rivalidade desses dois ressurge quando Lawrence decide retomar sua vida por meio do infame dojo Cobra Kai. Enquanto ele busca redenção, o agora bem-sucedido Daniel, por sua vez, tenta superar os desafios de sua vida sem a ajuda do seu mentor, o Sr. Miyagi.</info>
+ </channel>
+ </channels>
  
 <channels></channels>
 <channel>
