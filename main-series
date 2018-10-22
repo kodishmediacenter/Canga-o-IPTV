@@ -28,6 +28,16 @@
  </channel>
  </channels>
  
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Fear The Walking Dead [/B][/COLOR]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0wYV32pRA7F9RT6A1TFW2lxRdS.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/Fear%20The%20Walking%20Dead</externallink>
+ <fanart>https://image.tmdb.org/t/p/original/okhLwP26UXHJ4KYGVsERQqp3129.jpg</fanart>
+ <info>Fear The Walking Dead é uma série de televisão dramática e pré-apocalíptica norte-americana, que se passa no mesmo universo de The Walking Dead, série de televisão baseada na série de histórias em quadrinhos de mesmo nome por Robert Kirkman, Tony Moore e Charlie Adlard. A série exibe o início do apocalipse zumbi, com outros personagens, na cidade de Los Angeles. Robert Kirkman é o produtor executivo, juntamente com Gale Anne Hurd, Greg Nicotero, e David Alpert, ambos da série original, além de contar com Adam Davidson como diretor. A série é protagonizada por Cliff Curtis, que interpreta Travis, um professor que tenta fazer o correto para todos em sua vida.</info>
+ </channel>
+ </channels>
+ 
 <channels></channels>
 <channel>
 <name>[COLOR white][B]La casa de papel[/B][/COLOR]</name>
