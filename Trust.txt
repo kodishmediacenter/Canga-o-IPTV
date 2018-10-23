@@ -1,6 +1,6 @@
 <canais> </ canais>
 <canal>
-<nome>Trust</ name>
+<nome>Trust </ name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5refQIjaOyBPuQqmrBp0C9TXPS6.jpg</ thumbnail>
 
 <item>
