@@ -88,3 +88,13 @@
 <info>Nesta série baseada na clássica franquia de terror, um incidente de bullying por rede social leva a um assassinato que traz o passado à tona</info>
 </channel>
 </channels> 
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Caso de Polícia[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHPiHLYz7Wjg5kIXqIOmDAqpqFc.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHPiHLYz7Wjg5kIXqIOmDAqpqFc.jpg</fanart>
+<info>Quando não está solucionando assassinatos, um policial patologicamente honesto tenta ficar de olho no pai, um pilantra cheio de boas intenções.</info>
+</channel>
+</channels>
