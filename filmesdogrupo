@@ -1,5 +1,26 @@
 <channels></channels>
 <channel>
+<name>Constantine</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZu1BW4DxKhz6JgGf2iLk5YfmyH.jpg</thumbnail>
+<item>
+<title>Constantine</title>
+<link>http://207.180.205.251/users/cangaco/home/Constantine%202005%20(720p)%20WWW.BLUDV.COM/Constantine.2005.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZu1BW4DxKhz6JgGf2iLk5YfmyH.jpg</thumbnail>
+<fanart></fanart> 
+<info>John Constantine (Keanu Reeves) é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson (Rachel Weisz), uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
+</item>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RwzK7_NlDg0&feature=youtu.be</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZu1BW4DxKhz6JgGf2iLk5YfmyH.jpg</thumbnail>
+<fanart></fanart>
+<info>John Constantine (Keanu Reeves) é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson (Rachel Weisz), uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>O Último Suspiro</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2npImuz4tUk0wFIrnCIODKFLJPw.jpg</thumbnail>
 <item>
