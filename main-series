@@ -83,7 +83,7 @@
 <channel>
 <name>[COLOR white][B]Scream[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMzclYREKmM5foluxGGf31UZmS8.jpg</thumbnail>
-<externallink>https://github.com/kodishmediacenter/Canga-o-IPTV/blob/master/Scream</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/Scream</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMzclYREKmM5foluxGGf31UZmS8.jpg</fanart>
 <info>Nesta série baseada na clássica franquia de terror, um incidente de bullying por rede social leva a um assassinato que traz o passado à tona</info>
 </channel>
@@ -93,7 +93,7 @@
 <channel>
 <name>[COLOR white][B]Caso de Polícia[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHPiHLYz7Wjg5kIXqIOmDAqpqFc.jpg</thumbnail>
-<externallink>https://github.com/kodishmediacenter/Canga-o-IPTV/blob/master/Caso%20de%20Pol%C3%ADcia</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/Caso%20de%20Pol%C3%ADcia</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHPiHLYz7Wjg5kIXqIOmDAqpqFc.jpg</fanart>
 <info>Quando não está solucionando assassinatos, um policial patologicamente honesto tenta ficar de olho no pai, um pilantra cheio de boas intenções.</info>
 </channel>
@@ -103,7 +103,7 @@
 <channel>
 <name>[COLOR white][B]The Last Kingdom[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/52fBNs8N0xZXHcCm1MDs0nvLQKK.jpg</thumbnail>
-<externallink>https://github.com/kodishmediacenter/Canga-o-IPTV/blob/master/The%20Last%20Kingdom</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/The%20Last%20Kingdom</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/52fBNs8N0xZXHcCm1MDs0nvLQKK.jpg</fanart>
 <info>Ambientada em 872, quando muitos dos Reinados que hoje fazem parte da Inglaterra caíram nas mãos dos Vikings, o reinado de Wessex ficou sob o comando de Alfred, o Grande. Em uma mistura de heroísmo, política, religião, coragem, amor, lealdade, e a eterna busca por identidade, a série mistura figuras reais que fazem parte da História com eventos e personagens fictícios.</info>
 </channel>
@@ -113,8 +113,10 @@
 <channel>
 <name>[COLOR white][B]O Exorcista[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS7A7QCsgBuGtZor3przeWoODbC.jpg</thumbnail>
-<externallink>https://github.com/kodishmediacenter/Canga-o-IPTV/blob/master/O%20Exorcista</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/O%20Exorcista</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS7A7QCsgBuGtZor3przeWoODbC.jpg</fanart>
 <info>Tomás Ortega é um padre progressista, ambicioso e compreensivo, que coordena uma pequena paróquia localizada no subúrbio de Chicago. Já o padre Marcus Keane trabalha num dos bairros mais pobres da Cidade do México, sendo completamente obcecado por sua missão religiosa. Ambos se encontram quando precisam lidar com o caso de possessão demoníaca que aflige a família Rance, que integra a paródia do padre Tomás. Desesperada com a situação de sua filha Katherine, Angela procura a ajuda dos padres. Por mais que eles tenham grandes diferenças de comportamento, precisam unir forças para enfrentar o maior desafio de suas vidas.</info>
 </channel>
 </channels>
+
+<? por gentileza https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/ nosso root
