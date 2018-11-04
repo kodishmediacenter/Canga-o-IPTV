@@ -40,26 +40,6 @@
 
 <channels></channels>
 <channel>
-<name>The Thinning: New World Order</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQtYfyldOV3mPzclKr0K90FTS0n.jpg</thumbnail>
-<item>
-<title>The Thinning: New World Order</title>
-<link>http://207.180.205.251/users/cangaco/home/The%20Thinning-XD3M5JN1uhg.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQtYfyldOV3mPzclKr0K90FTS0n.jpg</thumbnail>
-<fanart></fanart> 
-<info>Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma.</info>
-</item>
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WOeHsQ7q3nw</trailer>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQtYfyldOV3mPzclKr0K90FTS0n.jpg</thumbnail>
-<fanart></fanart>
-<info>Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma.</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
 <name>Terra de Minas</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMIMIAHmJiLB4cDTZAGIAL8cVjV.jpg</thumbnail>
 <item>
