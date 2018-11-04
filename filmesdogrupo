@@ -40,26 +40,6 @@
 
 <channels></channels>
 <channel>
-<name>Terra de Minas</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMIMIAHmJiLB4cDTZAGIAL8cVjV.jpg</thumbnail>
-<item>
-<title>Terra de Minas</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMIMIAHmJiLB4cDTZAGIAL8cVjV.jpg</thumbnail>
-<fanart></fanart> 
-<info>A guerra não acaba quando a paz é assinada. Um grupo de jovens prisioneiros alemães é entregue ao sargento dinamarquês Rasmussen no final da Segunda Guerra Mundial. Rasmussen ordena a desativação de mais de dois milhões de minas enterradas na costa dinamarquesa, apesar de ser proibido pela Convenção de Genebra.</info>
-</item>
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=maTMNF7cruk</trailer>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMIMIAHmJiLB4cDTZAGIAL8cVjV.jpg</thumbnail>
-<fanart></fanart>
-<info>A guerra não acaba quando a paz é assinada. Um grupo de jovens prisioneiros alemães é entregue ao sargento dinamarquês Rasmussen no final da Segunda Guerra Mundial. Rasmussen ordena a desativação de mais de dois milhões de minas enterradas na costa dinamarquesa, apesar de ser proibido pela Convenção de Genebra.</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
 <name>Mile 22</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg</thumbnail>
 <item>
