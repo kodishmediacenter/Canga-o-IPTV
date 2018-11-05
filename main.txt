@@ -50,6 +50,16 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Cangaço TV  - Cangaço Desenho [Em Breve][/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/series.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/main-series</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
 
  <channels>
  <channel>
