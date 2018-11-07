@@ -2,7 +2,7 @@
  <channels>
  <channel>
  <name>[COLOR green][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/tv.png</thumbnail>
+ <thumbnail>https://i.imgur.com/hGC8QCo.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/canaisextra</externallink>
  <fanart></fanart>
  <info></info>
@@ -13,7 +13,7 @@
  <channels>
  <channel>
  <name>[COLOR green][B]Cangaço TV -  Filmes[/B][/COLOR]</name>
- <thumbnail>https://i.imgur.com/hGC8QCo.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/ycsyJYW.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filmesdogrupo</externallink>
  <fanart></fanart>
  <info></info>
