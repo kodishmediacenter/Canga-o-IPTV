@@ -1,7 +1,7 @@
 
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
+ <name>[COLOR green][B]Cangaço TV  - Cangaço IPTV[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/tv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/canaisextra</externallink>
  <fanart></fanart>
@@ -12,8 +12,8 @@
 
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV -  Filmes[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/filmes.png</thumbnail>
+ <name>[COLOR green][B]Cangaço TV -  Filmes[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/hGC8QCo.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filmesdogrupo</externallink>
  <fanart></fanart>
  <info></info>
@@ -22,8 +22,8 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV Lista do MM Filmes[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/filmes.png</thumbnail>
+ <name>[COLOR green][B]Cangaço TV Lista do MM Filmes[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/4bLokCc.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filme-mm</externallink>
  <fanart></fanart>
  <info></info>
@@ -32,8 +32,8 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Hidra  - Kodish[/B][/COLOR]</name>
- <thumbnail>https://uploaddeimagens.com.br/images/001/625/552/thumb/icon.png</thumbnail>
+ <name>[COLOR green][B]Hidra  - Kodish[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/sYHp4pP.jpg</thumbnail>
  <externallink>https://raw.github.com/kodishmediacenter/omega/master/main.txt</externallink>
  <fanart></fanart>
  <info></info>
@@ -43,8 +43,8 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV  - Cangaço Series[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/series.png</thumbnail>
+ <name>[COLOR green][B]Cangaço TV  - Cangaço Series[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/hIQuudb.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/main-series</externallink>
  <fanart></fanart>
  <info></info>
@@ -53,9 +53,9 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV  - Cangaço Desenho [Em Breve][/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/series.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/DESENHOS%20CANGA%C3%87OTV</externallink>
+ <name>[COLOR green][B]Cangaço TV  - Cangaço Desenho[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/MxL1L1k.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/desenhos</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
@@ -63,8 +63,8 @@
 
  <channels>
  <channel>
- <name>[COLOR white][B]Cangaço TV  - Radio Online[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/cangaco/radios.png</thumbnail>
+ <name>[COLOR green][B]Cangaço TV  - Radio Online[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/NIJU0K1.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/radios</externallink>
  <fanart></fanart>
  <info></info>
