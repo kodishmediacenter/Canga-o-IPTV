@@ -37,7 +37,7 @@
  <externallink>https://raw.github.com/kodishmediacenter/omega/master/main.txt</externallink>
  <fanart></fanart>
  <info></info>
- </channel>
+ </channel> 
  </channels>
  
  
