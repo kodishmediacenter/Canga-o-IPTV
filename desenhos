@@ -4,9 +4,8 @@
  
 #PLAYLISTV: pltv-logo="http://www.portalsabores.com.br/wp-content/uploads/2015/04/cangaceiro.png" pltv-name="DESENHOS CANGAÇO TV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Y---MnO0CljzQkqQKqN-nVbzTFegJZ13ILG0Dmhr0C6tDs4vAw" pltv-author="DESENHOS CANGAÇO TV"
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PY0n9bX.jpg" group-title="INFANTIL",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.portalsabores.com.br/wp-content/uploads/2015/04/cangaceiro.png" group-title="Dragon Ball Super DUB", Cangaço Tv
 https://docs.google.com/file/d/1M9xgjcq6pnPeQxfka2d6RQQ6W-CvQuQu/preview
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Hb0nSuz.jpg" group-title="Dragon Ball Super DUB", DBS EP.1
