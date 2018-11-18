@@ -13,7 +13,7 @@
  <channel>
  <name>[COLOR green][B]Cangaço TV  [/B][/COLOR][COLOR White][B]- Cangaço IPTV [/B][/COLOR]</name>
  <thumbnail>https://i.imgur.com/hGC8QCo.jpg</thumbnail>
- <externallink></externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/Canais%20novos</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
