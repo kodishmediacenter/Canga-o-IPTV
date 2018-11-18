@@ -70,7 +70,7 @@
  </channel>
  </channels>
 
- <channels>
+ <channels> 
  <channel>
  <name>[COLOR green][B]Cangaço TV[/B][/COLOR][COLOR White][B]-Radio Online[/B][/COLOR]</name>
  <thumbnail>https://i.imgur.com/NIJU0K1.jpg</thumbnail>
