@@ -37,7 +37,7 @@
  <fanart></fanart>
  <info></info>
  </channel>
- </channels>
+ </channels> 
  
  <channels>
  <channel>
