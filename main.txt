@@ -64,7 +64,7 @@
  <channel>
  <name>[COLOR green][B]Cangaço TV[/B][/COLOR][COLOR White][B]-Cangaço Desenho[/B][/COLOR]</name>
  <thumbnail>https://i.imgur.com/MxL1L1k.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/desenhos</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/desenhoscangacotv.m3u</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
