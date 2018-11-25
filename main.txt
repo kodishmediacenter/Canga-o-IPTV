@@ -5,7 +5,7 @@
  <thumbnail>https://i.imgur.com/hGC8QCo.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/canaisextra</externallink>
  <fanart></fanart>
- <info></info>
+ <info></info> 
  </channel>
  </channels> 
  
