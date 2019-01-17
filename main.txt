@@ -1,0 +1,21 @@
+<channels></channels>
+<channel>
+<name>Faça Novo Updadte</name>
+<thumbnail>https://www.google.com/imgres?imgurl=http%3A%2F%2Fdb4beginners.com%2Fwp-content%2Fuploads%2F2017%2F11%2FGboxUpdate-1-650x372.jpg&imgrefurl=http%3A%2F%2Fdb4beginners.com%2Fblog%2Fupdate-no-mongodb%2F&docid=yjQyvWBp6Qtw6M&tbnid=Cp-aYYYtBw0Q3M%3A&vet=10ahUKEwibkcqEn_XfAhWaLLkGHYczDqEQMwg1KAAwAA..i&w=650&h=372&bih=730&biw=1517&q=update&ved=0ahUKEwibkcqEn_XfAhWaLLkGHYczDqEQMwg1KAAwAA&iact=mrc&uact=8</thumbnail>
+
+<item>
+<title>Faça Novo Updadte</title>
+<link>https://hidratorrent.com/lancamentos-1</link>
+<thumbnail>https://www.google.com/imgres?imgurl=http%3A%2F%2Fdb4beginners.com%2Fwp-content%2Fuploads%2F2017%2F11%2FGboxUpdate-1-650x372.jpg&imgrefurl=http%3A%2F%2Fdb4beginners.com%2Fblog%2Fupdate-no-mongodb%2F&docid=yjQyvWBp6Qtw6M&tbnid=Cp-aYYYtBw0Q3M%3A&vet=10ahUKEwibkcqEn_XfAhWaLLkGHYczDqEQMwg1KAAwAA..i&w=650&h=372&bih=730&biw=1517&q=update&ved=0ahUKEwibkcqEn_XfAhWaLLkGHYczDqEQMwg1KAAwAA&iact=mrc&uact=8</thumbnail>
+<fanart></fanart>
+<info>Novo Update para Baixar na Kodish Store</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+<thumbnail>https://www.google.com/imgres?imgurl=http%3A%2F%2Fdb4beginners.com%2Fwp-content%2Fuploads%2F2017%2F11%2FGboxUpdate-1-650x372.jpg&imgrefurl=http%3A%2F%2Fdb4beginners.com%2Fblog%2Fupdate-no-mongodb%2F&docid=yjQyvWBp6Qtw6M&tbnid=Cp-aYYYtBw0Q3M%3A&vet=10ahUKEwibkcqEn_XfAhWaLLkGHYczDqEQMwg1KAAwAA..i&w=650&h=372&bih=730&biw=1517&q=update&ved=0ahUKEwibkcqEn_XfAhWaLLkGHYczDqEQMwg1KAAwAA&iact=mrc&uact=8</thumbnail>
+<fanart></fanart>
+<info>Novo Update para Baixar na Kodish Store</info>
+</item>
+</channel>
